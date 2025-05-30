@@ -1,0 +1,3 @@
+com\epam\framework\runners\TestRunner.class
+com\epam\framework\stepdefs\ui\ProfileSteps.class
+com\epam\framework\hooks\Hooks.class
